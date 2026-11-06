@@ -12,7 +12,7 @@
 
 - [Purpose](#purpose)
 - [Best Practices](#best-practices)
-  - [Taking backend electives in order](#taking-backend-electives-in-order)
+  - [Taking backend courses in order](#taking-backend-courses-in-order)
   - [Deploying and measuring a backend service](#deploying-and-measuring-a-backend-service)
   - [Contributing to open source projects](#contributing-to-open-source-projects)
 - [References](#references)
@@ -27,11 +27,11 @@ Most of what the CSSE core teaches you is how to write correct code. Backend job
 
 # Best Practices
 
-The order matters. The electives come first because the project depends on them, and open source goes better once you have some backend experience.
+The order matters. The courses come first because the project depends on them, and open source goes better once you have some backend experience.
 
-## Taking backend electives in order
+## Taking backend courses in order
 
-Backend engineers mostly work on the parts of an app that users don't see, like databases, APIs (application programming interfaces), and the servers in between. The core covers data structures and algorithms well, but it doesn't really get into databases, networking, or cloud systems, and that's most of what backend work runs on. Kleppmann describes the main goals of a data system as keeping it reliable, scalable, and maintainable,[^2] and all of those depend on how databases and networks behave. Timing is the other issue. Some of these electives have prerequisites, and CSS 436 is only offered in winter and spring.[^3]
+Backend engineers work on the parts of an app users never see: the databases, the APIs (application programming interfaces), and the servers that connect them. The core gives you a solid base in data structures and algorithms, but it barely touches databases, networking, or cloud systems, which is what most backend work is built on. Kleppmann describes the main goals of a data system as keeping it reliable, scalable, and maintainable,[^2] and all of those depend on how databases and networks behave. Timing is the other issue. Some of these courses have prerequisites, and CSS 436 is only offered in winter and spring.[^3]
 
 **Take CSS 430 Operating Systems and CSS 475 Database Systems in junior year, then CSS 432 Network Design and Programming, and leave CSS 436 Cloud Computing for senior winter.** CSS 430 is recommended before CSS 432, and CSS 436 requires one of the two.[^3] While you take each class, add one small piece to a personal server project. For example, build the database layer during CSS 475 and the REST API during CSS 432. If a class fills up, Figure 1 shows a backup quarter for it.
 
@@ -66,7 +66,7 @@ GitLab lists open-source experience and developer tools as nice-to-haves for bac
 
 [5] Open Source Guides, "How to Contribute to Open Source," *Open Source Guides*, n.d. [Online]. Available: https://opensource.guide/how-to-contribute/. [Accessed Oct. 26, 2026].
 
-[word count: 688]
+[word count: 684]
 
 [↑ Back to top](#from-csse-to-backend-engineer-a-graduation-learning-plan)
 
