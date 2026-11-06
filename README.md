@@ -21,7 +21,7 @@
 
 # Purpose
 
-Most of what the CSSE core teaches you is how to write correct code. Backend job postings ask for more than that. GitLab's backend roles, for example, require experience fixing performance problems, clear technical communication, and the ability to work on a remote team, and none of those get much attention in core classes.[^1] This plan covers three things to do between junior year and graduation: take backend electives in the right order, deploy a service and measure how it performs, and contribute to an open-source project. Figure 1 shows when each one happens. The purpose of this plan is to get you to graduation with backend work you can point to on your resume and in interviews.
+Most of what the CSSE core teaches you is how to write correct code. Backend job postings ask for more than that. GitLab's backend roles, for example, require experience fixing performance problems and the ability to work on a remote team, and none of those get much attention in core classes.[^1] This plan covers three things to do between junior year and graduation: take backend courses in the right order, deploy a service and measure how it performs, and contribute to an open-source project. Figure 1 shows when each one happens. The purpose of this plan is to get you to graduation with backend work you can point to on your resume and in interviews.
 
 ---
 
@@ -33,7 +33,7 @@ The order matters. The courses come first because the project depends on them, a
 
 Backend engineers work on the parts of an app users never see: the databases, the APIs (application programming interfaces), and the servers that connect them. The core gives you a solid base in data structures and algorithms, but it barely touches databases, networking, or cloud systems, which is what most backend work is built on. Kleppmann describes the main goals of a data system as keeping it reliable, scalable, and maintainable,[^2] and all of those depend on how databases and networks behave. Timing is the other issue. Some of these courses have prerequisites, and CSS 436 is only offered in winter and spring.[^3]
 
-**Take CSS 430 Operating Systems and CSS 475 Database Systems in junior year, then CSS 432 Network Design and Programming, and leave CSS 436 Cloud Computing for senior winter.** CSS 430 is recommended before CSS 432, and CSS 436 requires one of the two.[^3] While you take each class, add one small piece to a personal server project. For example, build the database layer during CSS 475 and the REST API during CSS 432. If a class fills up, Figure 1 shows a backup quarter for it.
+**Take CSS 475 Database Systems in junior year, then CSS 432 Network Design and Programming once you finish CSS 430, and leave CSS 436 Cloud Computing for senior winter.** CSS 430 is recommended before CSS 432, and CSS 436 requires one of the two.[^3] While you take each class, add one small piece to a personal server project. For example, build the database layer during CSS 475 and the REST API during CSS 432. If a class fills up, Figure 1 shows a backup quarter for it.
 
 **Figure 1.** *Backend learning timeline from junior fall to senior spring, with recruiting season shaded*
  
